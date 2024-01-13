@@ -5,7 +5,7 @@
 ## Deployment
 
 1.  Make site changes locally
-2.  Run `quarto render src` if you'd like to change the output of any embedded computations
+2.  Run `quarto render` if you'd like to change the output of any embedded computations
 3.  Push changes to GitHub
 
 Netifly is configured with the quarto plugin [here](netifly.toml) (version is specified [here](package.json#L3)) and so it will automatically build and deploy the site remotely on new commits.
@@ -17,14 +17,14 @@ Netifly is configured with the quarto plugin [here](netifly.toml) (version is sp
 
 ## Local Usage
 
-Preview site with `quarto preview src`
+Preview site with `quarto preview`
 
-Render site with `quarto render src`
+Render site with `quarto render`
 
--   Rendered output generated at src/\_site
+-   Rendered output generated at `_site`
 
--   Results of computations will be re-run and added src/\_freeze for version control
+-   Results of computations will be re-run and added to `_freeze` for version control
 
-Manual publish `quarto publish src`
+Manual publish `quarto publish`
 
 -   Options: Quarto Pub, GitHub Pages, Posit Connect, Netlify & Confluence  
