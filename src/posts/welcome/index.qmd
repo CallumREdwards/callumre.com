@@ -1,0 +1,14 @@
+---
+title: "Welcome To My Blog"
+date: "2024-01-06"
+description: "How I made this website"
+categories: [Web, Quarto]
+---
+
+Welcome!
+
+In this first post I'm going to go through how I made this website.
+
+The website is hosted on
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/4bb0de62-4d8e-49a8-8f24-f4cafe52a70a/deploy-status)](https://app.netlify.com/sites/callumedwards/deploys)

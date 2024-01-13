@@ -1,0 +1,21 @@
+---
+title: "About Me"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/callum-edwards-783073194
+    - icon: github
+      text: Github
+      href: https://github.com/CallumREdwards
+---
+
+Hello 👋 I'm **Callum**.
+
+I moved from Cambridge to Camden, London in 2021 after having graduated from Trinity Hall with a BA in Computer Science. I have since been working as a Software Engineer at G-Research, a leading quantitative research and technology firm.
+
+My technical interests currently lie in Machine Learning, Distributed System Design, Data Engineering, Functional Programming Languages and Mathematics. I decided to create this blog to document and share any new projects/learnings in these areas.
+
+Please reach out if you have any suggestions or comments!
