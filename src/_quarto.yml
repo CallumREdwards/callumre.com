@@ -1,21 +1,20 @@
 project:
   type: website
-  render:
-    - src
+  output-dir: ../_site
 
 website:
   title: "Callum Edwards"
   site-url: https://www.callumre.com
   description: "Callum Edwards Blog"
-  margin-header: src/subscribe.html
+  margin-header: subscribe.html
   navbar:
     left:
       - text: "Home"
-        file: src/index.qmd
-      - src/about.qmd 
+        file: index.qmd
+      - about.qmd 
     right:
       - icon: rss
-        href: src/index.xml
+        href: index.xml
       - icon: github
         href: https://github.com/CallumREdwards
       - icon: twitter
@@ -23,7 +22,7 @@ website:
 format:
   html:
     theme: lux
-    css: src/styles.css
+    css: styles.css
 
 execute:
   # https://quarto.org/docs/publishing/netlify.html#freezing-computations
