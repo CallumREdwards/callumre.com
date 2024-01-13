@@ -11,7 +11,7 @@ website:
   navbar:
     left:
       - text: "Home"
-        file: index.qmd
+        file: src/index.qmd
       - src/about.qmd 
     right:
       - icon: rss
