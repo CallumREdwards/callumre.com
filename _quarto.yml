@@ -6,8 +6,6 @@ website:
   site-url: https://www.callumre.com
   description: "Callum Edwards Blog"
   margin-header: src/subscribe.html
-  # foreground: success
-  # background: light
   navbar:
     left:
       - text: "Home"
