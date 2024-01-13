@@ -1,5 +1,8 @@
 project:
   type: website
+  render:
+    - src
+  output-dir: ../_site
 
 website:
   title: "Callum Edwards"
