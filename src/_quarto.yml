@@ -1,27 +1,38 @@
 project:
   type: website
   output-dir: ../_site
+  preview:
+    port: 4444
 
 website:
   title: "Callum Edwards"
   site-url: https://www.callumre.com
   description: "Callum Edwards Blog"
+  favicon: profile.jpg
   margin-header: subscribe.html
+  page-navigation: true
+  open-graph: true  # https://quarto.org/docs/websites/website-tools.html#open-graph
   navbar:
     left:
-      - text: "Home"
-        file: index.qmd
-      - about.qmd 
+      - text: "About"
+        file: index.qmd 
+      - text: "Blog"
+        file: posts.qmd
     right:
-      - icon: rss
+      - text: RSS
+        icon: rss
         href: index.xml
       - icon: github
         href: https://github.com/CallumREdwards
       - icon: twitter
         href: https://twitter.com/CallumE35268498
+      - icon: linkedin
+        href: https://www.linkedin.com/in/callum-edwards-783073194
 format:
   html:
-    theme: lux
+    theme:
+      light: flatly
+      # dark: darkly
     css: styles.css
 
 execute:
