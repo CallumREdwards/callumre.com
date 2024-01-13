@@ -8,7 +8,7 @@
 2.  Run `quarto render` if you'd like to change the output of any embedded computations
 3.  Push changes to GitHub
 
-Netifly is configured with the quarto plugin [here](netifly.toml) (version is specified [here](package.json#L3)) and so it will automatically build and deploy the site remotely on new commits.
+Netifly is configured with the [quarto plugin](https://github.com/quarto-dev/netlify-plugin-quarto?tab=readme-ov-file) [here](netifly.toml) (version is specified [here](package.json#L3)) and so it will automatically build and deploy the site remotely on new commits.
 
 | Info                    | Link                                                              |
 |----------------------|--------------------------------------------------|
