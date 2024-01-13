@@ -8,7 +8,7 @@ website:
   title: "Callum Edwards"
   site-url: https://www.callumre.com
   description: "Callum Edwards Blog"
-  favicon: logo.jpg
+  favicon: logo.png
   margin-header: subscribe.html
   page-navigation: true
   open-graph: true  # https://quarto.org/docs/websites/website-tools.html#open-graph
