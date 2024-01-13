@@ -12,6 +12,7 @@ website:
   margin-header: subscribe.html
   page-navigation: true
   open-graph: true  # https://quarto.org/docs/websites/website-tools.html#open-graph
+  google-analytics: G-X9YW0JXMNV
   navbar:
     left:
       - text: "About"
