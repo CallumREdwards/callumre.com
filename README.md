@@ -19,7 +19,7 @@ Netifly is configured with the quarto plugin [here](netifly.toml) (version is sp
 
 Preview site with `quarto preview src`
 
-Render site with `quarto render srchtt`
+Render site with `quarto render src`
 
 -   Rendered output generated at src/\_site
 
