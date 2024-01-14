@@ -5,15 +5,19 @@
 $font-family: "Atkinson Hyperlegible", sans-serif;
 $font-family-serif: "Atkinson Hyperlegible", sans-serif;
 
-$primary: #2c2c2c;
+$primary: #c06767;
+$body-bg: #141414;
+$body-color: #f1f4eb;
+$link-color: #d39f5b;
+$popover-bg: #c64657;
+$navbar-bg: #2c2c2c;
+$navbar-fg: #d39f5b;;
+$navbar-hl: #f1f4eb;
+$sidebar-bg: #75dbc8;
+$sidebar-fg: #e5a10e;
+$sidebar-hl: #0c43e6;
+$footer-bg: #2c2c2c;
+$footer-fg: #d39f5b;
+$code-block-bg: #e5a10e;
 
 /*-- scss:rules --*/
-
-kbd, .kbd{
-  background-color: #222222 !important;
-}
-
-.navbar {
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-}
