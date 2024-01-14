@@ -17,4 +17,4 @@ I moved from Cambridge to Camden, London in 2021 after having graduated from Tri
 
 My technical interests lie in Machine Learning, Distributed System Design, Data Engineering, Functional Programming Languages and Statistics. I've created this blog to document and share any new projects/learnings in these areas.
 
-Please reach out if you have any suggestions or comments!
+Please reach out if you have any suggestions or comments! My email is hi.callumre@gmail.com. 

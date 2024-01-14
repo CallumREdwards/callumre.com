@@ -33,6 +33,7 @@ format:
       light: flatly
       # dark: darkly
     css: styles.css
+    smooth-scroll: true
 
 execute:
   # https://quarto.org/docs/publishing/netlify.html#freezing-computations
