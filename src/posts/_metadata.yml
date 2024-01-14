@@ -18,5 +18,3 @@ page-layout: article
 comments:
   giscus: 
     repo: CallumREdwards/callumre.com
-
-include-after-body: "footer.html"
