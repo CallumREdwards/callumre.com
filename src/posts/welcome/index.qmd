@@ -65,9 +65,9 @@ By making my learnings public, I hope that someone who is learning about a post'
 
 My current plan is to write at least one post each month. This goal isn't too high that I'll miss it early on, and it isn't too low that by next year I'll have been disappointed with the progress.
 
-Let's say I keep this going for 10 years, then I'll have (12 * 10 =) 120 posts. A portfolio of technical/mathematical posts of this size will demonstrate my love for learning and so could open up future opportunities.
+Let's say I keep this going for 10 years, then I'll have (12 * 10 =) 120 posts. A portfolio of technical / mathematical posts of this size will demonstrate my love for learning and so could open up future opportunities.
 
-# Experiement
+# Experiementing
 
 This blog is an experiment. Hopefully, it will be a successful one but so far it has been fun making it even if isn't. 
 
