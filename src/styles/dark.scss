@@ -6,7 +6,7 @@ $font-family: "Atkinson Hyperlegible", sans-serif;
 $font-family-serif: "Atkinson Hyperlegible", sans-serif;
 
 $primary: #c06767;
-$body-bg: #141414;
+$body-bg: #000000;
 $body-color: #f1f4eb;
 $link-color: #d39f5b;
 $popover-bg: #c64657;
@@ -18,6 +18,14 @@ $sidebar-fg: #e5a10e;
 $sidebar-hl: #0c43e6;
 $footer-bg: #2c2c2c;
 $footer-fg: #d39f5b;
-$code-block-bg: #e5a10e;
+$code-block-bg: #d39f5b;
 
 /*-- scss:rules --*/
+
+.blockquote {
+    color: #949493;
+}
+
+h1,.h1,h2,.h2,h3,.h3 {
+    color: #d39f5b;
+}
