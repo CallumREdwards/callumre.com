@@ -14,7 +14,7 @@ website:
   open-graph: true  # https://quarto.org/docs/websites/website-tools.html#open-graph
   google-analytics: G-X9YW0JXMNV
   repo-url: https://github.com/CallumREdwards/callumre.com
-  repo-actions: [edit, issue]
+  repo-actions: [issue]
   navbar:
     left:
       - text: "About"
