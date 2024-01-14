@@ -12,15 +12,17 @@ It's the start of 2024 and I have decided to finally have a go at writing my own
 
 # What am I hoping to get out of it?
 
+I've had a think about why I actually want to write a blog, in the hopes that it acts as a reminder when I'm feeling a bit less motivated.
+
 ### Document my learnings
 
 > "Documentation is a love letter that you write to your future self." - Damian Conway
 
 (Apologies to all those who find quotes cringy but this won't be the only one...)
 
-Anyone who knows me well, knows that I have a particularly bad long-term memory. Lots of people probably say that they have a bad memory, but I am on another level. I honestly struggle to remember anything past a year 😔
+Anyone who knows me well knows that I have a particularly bad long-term memory. Lots of people probably say that they have a bad memory, but I am on another level. I honestly struggle to remember anything past a year 😔
 
-This is sad for many reasons but one such reason that I'm hoping that this blog will help with is forgetting interesting things I've read. I often read a book / paper / post and find something I find really interesting, get into it for a bit, before eventually moving on and forgetting about it completely. I'm hoping by making the task of writing something to this blog small, the energy required to document these learnings is reduced. Then in the (hopefully not so imaginary) future I'll be able to look back over a collection of thoughts that I've saved with some clarity and (maybe) pride.
+This is sad for many reasons but one such reason that I'm hoping that this blog will help with is forgetting interesting things I've read. I often read a book/paper/post and find something I find really interesting, get into it for a bit, before eventually moving on and forgetting about it completely. I'm hoping by making the task of writing something to this blog small, the energy required to document these learnings is reduced. Then in the (hopefully not so imaginary) future I'll be able to look back over a collection of thoughts that I've saved with some clarity and (maybe) pride.
 
 ### Better understanding
 
@@ -32,7 +34,7 @@ When reading or listening to something I often gloss over details that don't cli
 
 Writing is a skill that I have yet to master. I think I peaked at the end of university after several intense years of coursework and exams, where I had to write lots and often. But even then I wasn't particularly good and was very slow at it. Since moving to London and starting my job as a software engineer, this skill has definitely degraded. Predictably writing code does not exercise the same part of the brain as writing a page of full sentences. 
 
-This blog will give me a reason to get back into writing and exercise the writing part of my brain once more. 
+This blog will give me a reason to  exercise the writing part of my brain once more, and so in time get better. The writing on this post might not be of the best quality but as long as the next one is, I'll be satisfied. 
 
 *Edit: Even writing this first page was surprisingly difficult to get into any kind of flow state to begin with but it already started getting easier towards the end.* 
 
