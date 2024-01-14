@@ -9,7 +9,7 @@ website:
   site-url: https://www.callumre.com
   description: "Callum Edwards Blog"
   favicon: logo.png
-  margin-header: subscribe.html
+  # margin-header: subscribe.html
   page-navigation: true
   open-graph: true  # https://quarto.org/docs/websites/website-tools.html#open-graph
   google-analytics: G-X9YW0JXMNV
@@ -34,8 +34,8 @@ website:
 format:
   html:
     theme:
-      light: flatly
-      # dark: darkly
+      light: [litera, styles/light.scss]
+      dark: [darkly, styles/dark.scss]
     css: styles.css
     smooth-scroll: true
     code-copy: true
