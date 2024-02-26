@@ -1,5 +1,8 @@
+// Build output
 **/.quarto
 _site/
 **/.ipynb_checkpoints
+
+// Editors
 **/.vscode
 **/.idea
