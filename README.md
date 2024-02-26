@@ -1,4 +1,4 @@
-#  https://callumre.com ![](https://api.netlify.com/api/v1/badges/4bb0de62-4d8e-49a8-8f24-f4cafe52a70a/deploy-status)
+# [callumre.com](https://callumre.com) ![Netlify Badge](https://api.netlify.com/api/v1/badges/4bb0de62-4d8e-49a8-8f24-f4cafe52a70a/deploy-status)
 
 This is the repository for my blog. For information on how this website was created visit [this post](https://callumre.com/posts/2024-01-14_how-i-made-this/2024-01-14_how-i-made-it/).
 
@@ -8,7 +8,7 @@ This is the repository for my blog. For information on how this website was crea
 2. Run `quarto render src` if you'd like to change the output of any embedded computations
 3. Push changes to GitHub
 
-This website is deployed with [netlify](https://www.netlify.com/). It is configured with the [quarto plugin](https://github.com/quarto-dev/netlify-plugin-quarto?tab=readme-ov-file) [here](netifly.toml) (version is specified [here](package.json#L3)) and so it will automatically build and deploy the site remotely on new commits.
+This website is deployed with [netlify](https://www.netlify.com/). It is configured with the [quarto plugin](https://github.com/quarto-dev/netlify-plugin-quarto?tab=readme-ov-file) [here](netlify.toml) (version is specified [here](package.json#L3)) and so it will automatically build and deploy the site remotely on new commits.
 
 ## Local Usage
 
