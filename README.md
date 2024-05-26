@@ -12,7 +12,9 @@ This website is deployed with [netlify](https://www.netlify.com/). It is configu
 
 ## Local Usage
 
-Preview site with `quarto preview src`
+Preview site with `quarto preview src --no-browser`
+
+- `--no-browser` option is nice when working from wsl linux
 
 Render site with `quarto render src`
 
